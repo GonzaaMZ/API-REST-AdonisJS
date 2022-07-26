@@ -26,3 +26,9 @@ Run the following command to run startup migrations.
 ```js
 adonis migration:run
 ```
+
+***EDIT***
+
+Database: SQlite
+
+Postman documentation = https://documenter.getpostman.com/view/19276652/UzXM1yoe
